@@ -85,9 +85,4 @@ falcon512-verify pk.pem mtl_signature.bin mtl_signature.sig
 **Institute of Engineering and Management (IEM), Kolkata**  
 **Domains**: IoT, Network Security, AIML 
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
 *This project is a simulation for research purposes and is not intended for production use without further testing and validation.*
